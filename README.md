@@ -1,6 +1,6 @@
 #Simon Game
-> Title: Simon Game
-> Live: 
+> Title: Simon Game 
+> Live: https://aromero18020.github.io/Simon-Game/
 
 ## Table of Contents
 * [General Info](#general-information)
